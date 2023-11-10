@@ -1,0 +1,14 @@
+D:\Users\NIlssonAvH\source\csharpConsoleExercises\002_inverturNumeroTresCifras\bin\Debug\net6.0\002_inverturNumeroTresCifras.exe
+D:\Users\NIlssonAvH\source\csharpConsoleExercises\002_inverturNumeroTresCifras\bin\Debug\net6.0\002_inverturNumeroTresCifras.deps.json
+D:\Users\NIlssonAvH\source\csharpConsoleExercises\002_inverturNumeroTresCifras\bin\Debug\net6.0\002_inverturNumeroTresCifras.runtimeconfig.json
+D:\Users\NIlssonAvH\source\csharpConsoleExercises\002_inverturNumeroTresCifras\bin\Debug\net6.0\002_inverturNumeroTresCifras.dll
+D:\Users\NIlssonAvH\source\csharpConsoleExercises\002_inverturNumeroTresCifras\bin\Debug\net6.0\002_inverturNumeroTresCifras.pdb
+D:\Users\NIlssonAvH\source\csharpConsoleExercises\002_inverturNumeroTresCifras\obj\Debug\net6.0\002_inverturNumeroTresCifras.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\NIlssonAvH\source\csharpConsoleExercises\002_inverturNumeroTresCifras\obj\Debug\net6.0\002_inverturNumeroTresCifras.AssemblyInfoInputs.cache
+D:\Users\NIlssonAvH\source\csharpConsoleExercises\002_inverturNumeroTresCifras\obj\Debug\net6.0\002_inverturNumeroTresCifras.AssemblyInfo.cs
+D:\Users\NIlssonAvH\source\csharpConsoleExercises\002_inverturNumeroTresCifras\obj\Debug\net6.0\002_inverturNumeroTresCifras.csproj.CoreCompileInputs.cache
+D:\Users\NIlssonAvH\source\csharpConsoleExercises\002_inverturNumeroTresCifras\obj\Debug\net6.0\002_inverturNumeroTresCifras.dll
+D:\Users\NIlssonAvH\source\csharpConsoleExercises\002_inverturNumeroTresCifras\obj\Debug\net6.0\refint\002_inverturNumeroTresCifras.dll
+D:\Users\NIlssonAvH\source\csharpConsoleExercises\002_inverturNumeroTresCifras\obj\Debug\net6.0\002_inverturNumeroTresCifras.pdb
+D:\Users\NIlssonAvH\source\csharpConsoleExercises\002_inverturNumeroTresCifras\obj\Debug\net6.0\002_inverturNumeroTresCifras.genruntimeconfig.cache
+D:\Users\NIlssonAvH\source\csharpConsoleExercises\002_inverturNumeroTresCifras\obj\Debug\net6.0\ref\002_inverturNumeroTresCifras.dll

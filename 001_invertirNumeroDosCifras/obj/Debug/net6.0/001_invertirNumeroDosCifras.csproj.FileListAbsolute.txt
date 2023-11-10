@@ -1,0 +1,14 @@
+D:\Users\NIlssonAvH\source\csharpConsoleExercises\001_invertirNumeroDosCifras\bin\Debug\net6.0\001_invertirNumeroDosCifras.exe
+D:\Users\NIlssonAvH\source\csharpConsoleExercises\001_invertirNumeroDosCifras\bin\Debug\net6.0\001_invertirNumeroDosCifras.deps.json
+D:\Users\NIlssonAvH\source\csharpConsoleExercises\001_invertirNumeroDosCifras\bin\Debug\net6.0\001_invertirNumeroDosCifras.runtimeconfig.json
+D:\Users\NIlssonAvH\source\csharpConsoleExercises\001_invertirNumeroDosCifras\bin\Debug\net6.0\001_invertirNumeroDosCifras.dll
+D:\Users\NIlssonAvH\source\csharpConsoleExercises\001_invertirNumeroDosCifras\bin\Debug\net6.0\001_invertirNumeroDosCifras.pdb
+D:\Users\NIlssonAvH\source\csharpConsoleExercises\001_invertirNumeroDosCifras\obj\Debug\net6.0\001_invertirNumeroDosCifras.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\NIlssonAvH\source\csharpConsoleExercises\001_invertirNumeroDosCifras\obj\Debug\net6.0\001_invertirNumeroDosCifras.AssemblyInfoInputs.cache
+D:\Users\NIlssonAvH\source\csharpConsoleExercises\001_invertirNumeroDosCifras\obj\Debug\net6.0\001_invertirNumeroDosCifras.AssemblyInfo.cs
+D:\Users\NIlssonAvH\source\csharpConsoleExercises\001_invertirNumeroDosCifras\obj\Debug\net6.0\001_invertirNumeroDosCifras.csproj.CoreCompileInputs.cache
+D:\Users\NIlssonAvH\source\csharpConsoleExercises\001_invertirNumeroDosCifras\obj\Debug\net6.0\001_invertirNumeroDosCifras.dll
+D:\Users\NIlssonAvH\source\csharpConsoleExercises\001_invertirNumeroDosCifras\obj\Debug\net6.0\refint\001_invertirNumeroDosCifras.dll
+D:\Users\NIlssonAvH\source\csharpConsoleExercises\001_invertirNumeroDosCifras\obj\Debug\net6.0\001_invertirNumeroDosCifras.pdb
+D:\Users\NIlssonAvH\source\csharpConsoleExercises\001_invertirNumeroDosCifras\obj\Debug\net6.0\001_invertirNumeroDosCifras.genruntimeconfig.cache
+D:\Users\NIlssonAvH\source\csharpConsoleExercises\001_invertirNumeroDosCifras\obj\Debug\net6.0\ref\001_invertirNumeroDosCifras.dll
