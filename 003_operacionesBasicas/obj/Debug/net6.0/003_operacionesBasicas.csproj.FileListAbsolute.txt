@@ -1,0 +1,14 @@
+D:\Users\NIlssonAvH\source\csharpConsoleExercises\003_operacionesBasicas\bin\Debug\net6.0\003_operacionesBasicas.exe
+D:\Users\NIlssonAvH\source\csharpConsoleExercises\003_operacionesBasicas\bin\Debug\net6.0\003_operacionesBasicas.deps.json
+D:\Users\NIlssonAvH\source\csharpConsoleExercises\003_operacionesBasicas\bin\Debug\net6.0\003_operacionesBasicas.runtimeconfig.json
+D:\Users\NIlssonAvH\source\csharpConsoleExercises\003_operacionesBasicas\bin\Debug\net6.0\003_operacionesBasicas.dll
+D:\Users\NIlssonAvH\source\csharpConsoleExercises\003_operacionesBasicas\bin\Debug\net6.0\003_operacionesBasicas.pdb
+D:\Users\NIlssonAvH\source\csharpConsoleExercises\003_operacionesBasicas\obj\Debug\net6.0\003_operacionesBasicas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\NIlssonAvH\source\csharpConsoleExercises\003_operacionesBasicas\obj\Debug\net6.0\003_operacionesBasicas.AssemblyInfoInputs.cache
+D:\Users\NIlssonAvH\source\csharpConsoleExercises\003_operacionesBasicas\obj\Debug\net6.0\003_operacionesBasicas.AssemblyInfo.cs
+D:\Users\NIlssonAvH\source\csharpConsoleExercises\003_operacionesBasicas\obj\Debug\net6.0\003_operacionesBasicas.csproj.CoreCompileInputs.cache
+D:\Users\NIlssonAvH\source\csharpConsoleExercises\003_operacionesBasicas\obj\Debug\net6.0\003_operacionesBasicas.dll
+D:\Users\NIlssonAvH\source\csharpConsoleExercises\003_operacionesBasicas\obj\Debug\net6.0\refint\003_operacionesBasicas.dll
+D:\Users\NIlssonAvH\source\csharpConsoleExercises\003_operacionesBasicas\obj\Debug\net6.0\003_operacionesBasicas.pdb
+D:\Users\NIlssonAvH\source\csharpConsoleExercises\003_operacionesBasicas\obj\Debug\net6.0\003_operacionesBasicas.genruntimeconfig.cache
+D:\Users\NIlssonAvH\source\csharpConsoleExercises\003_operacionesBasicas\obj\Debug\net6.0\ref\003_operacionesBasicas.dll
