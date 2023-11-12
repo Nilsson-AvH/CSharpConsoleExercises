@@ -51,6 +51,8 @@ namespace operacionesBasicas
             Console.WriteLine("La multiplicacion de los numeros es: " + operaciones.superMultiplicacion(numeroUno, numeroDos));
             Console.WriteLine("La division de los numeros es: " + operaciones.superDivision(numeroUno, numeroDos));
             Console.WriteLine("El residuo de los numeros es: " + operaciones.superResiduo(numeroUno, numeroDos));
+            Console.WriteLine("Fin del programa, presione enter para salir: ");
+            Console.ReadLine();
         }
     }
 }

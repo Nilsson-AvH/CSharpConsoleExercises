@@ -1,0 +1,14 @@
+D:\Users\NIlssonAvH\source\csharpConsoleExercises\004_compraRestaurante\bin\Debug\net6.0\004_compraRestaurante.exe
+D:\Users\NIlssonAvH\source\csharpConsoleExercises\004_compraRestaurante\bin\Debug\net6.0\004_compraRestaurante.deps.json
+D:\Users\NIlssonAvH\source\csharpConsoleExercises\004_compraRestaurante\bin\Debug\net6.0\004_compraRestaurante.runtimeconfig.json
+D:\Users\NIlssonAvH\source\csharpConsoleExercises\004_compraRestaurante\bin\Debug\net6.0\004_compraRestaurante.dll
+D:\Users\NIlssonAvH\source\csharpConsoleExercises\004_compraRestaurante\bin\Debug\net6.0\004_compraRestaurante.pdb
+D:\Users\NIlssonAvH\source\csharpConsoleExercises\004_compraRestaurante\obj\Debug\net6.0\004_compraRestaurante.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\NIlssonAvH\source\csharpConsoleExercises\004_compraRestaurante\obj\Debug\net6.0\004_compraRestaurante.AssemblyInfoInputs.cache
+D:\Users\NIlssonAvH\source\csharpConsoleExercises\004_compraRestaurante\obj\Debug\net6.0\004_compraRestaurante.AssemblyInfo.cs
+D:\Users\NIlssonAvH\source\csharpConsoleExercises\004_compraRestaurante\obj\Debug\net6.0\004_compraRestaurante.csproj.CoreCompileInputs.cache
+D:\Users\NIlssonAvH\source\csharpConsoleExercises\004_compraRestaurante\obj\Debug\net6.0\004_compraRestaurante.dll
+D:\Users\NIlssonAvH\source\csharpConsoleExercises\004_compraRestaurante\obj\Debug\net6.0\refint\004_compraRestaurante.dll
+D:\Users\NIlssonAvH\source\csharpConsoleExercises\004_compraRestaurante\obj\Debug\net6.0\004_compraRestaurante.pdb
+D:\Users\NIlssonAvH\source\csharpConsoleExercises\004_compraRestaurante\obj\Debug\net6.0\004_compraRestaurante.genruntimeconfig.cache
+D:\Users\NIlssonAvH\source\csharpConsoleExercises\004_compraRestaurante\obj\Debug\net6.0\ref\004_compraRestaurante.dll
